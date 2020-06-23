@@ -21,7 +21,7 @@ Build a back end API using Django Rest Framework. This API will connect to your 
 -   Model(s) for boasts and roasts with appropriate attributes as derived from other requirements
 -   GET, and POST endpoints for boasts and roasts
 -   POST endpoints for voting on boasts and roasts
-    -   hint: add extra actions (Links to an external site.)Links to an external site. to your viewset
+    -   hint: add [extra actions](https://www.django-rest-framework.org/api-guide/viewsets/#marking-extra-actions-for-routing) to your viewset
 
 #### Note:
 
